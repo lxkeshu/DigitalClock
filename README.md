@@ -1,2 +1,3 @@
 # DigitalClock
-Javascript digital clock mini project \n
+Javascript digital clock \
+Mini Javscript project
